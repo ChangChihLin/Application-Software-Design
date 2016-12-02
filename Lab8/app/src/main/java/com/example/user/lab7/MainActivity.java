@@ -1,4 +1,4 @@
-package com.example.m107025201.lab8;
+package com.example.user.lab7;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
                     finish();
                 }
             });
+
         }
     }
 }
